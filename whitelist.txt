@@ -4,6 +4,7 @@
 @@||matomo.adguard.com^$important
 # Instagram
 @@||cdninstagram.com^$important
+@@||graph.instagram.com^$important
 # F1 TV
 @@||f1-prod-production.apigee.net^$important
 @@||f1tv-cdn-cent-east.formula1.com.c.footprint.net^$important
@@ -38,6 +39,7 @@
 @@||geo3.ggpht.com^$important
 @@||yt3.ggpht.com^$important
 @@||fonts.gstatic.com^$important
+@@||www.google-analytics.com^$important
 # Youtube
 @@||s.youtube.com^$important
 @@||s2.youtube.com^$important
@@ -351,3 +353,7 @@
 @@||dyndns.variomedia.de^$important
 #Yahoo
 @@||www.yahoo.co.jp^$important
+@@||search.yahoo.com^$important
+#Alexa
+@@||xml.alexa.com^$important
+@@||alexa.com^$important
