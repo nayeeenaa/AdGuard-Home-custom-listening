@@ -1,4 +1,17 @@
-# Nayeen Home Adguard Home whitelist
+# 
+!
+! Title: Nayeen Home Adguard Home Domain Names whitelist filter
+! Description: whitelist filter composed from several essential domain
+! Homepage: https://github.com/nayeeenaa/AdGuard-Home-custom-listening
+! Last modified: 2020-04-29T14:08:02.470Z
+!
+!
+!
+! Source name: Nayeen Home Adguard Home Domain Names whitelist filter
+! Source: https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist.txt
+!
+!
+!
 
 #AdGuard
 @@||matomo.adguard.com^$important
