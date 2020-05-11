@@ -21,3 +21,7 @@
 @@||mqtt.c10r.facebook.com^$important
 @@||portal.fb.com^$important
 @@||star.c10r.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||www.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||star-mini.c10r.facebook.com^$important

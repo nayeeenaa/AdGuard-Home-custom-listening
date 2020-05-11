@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"Di",
+				"DIV\tTag"
+			],
+			[
+				"func",
+				"create_function"
+			],
+			[
+				"mp",
+				"mpdf"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/fz3temp-2/index.php",
+		"/Users/nayeenalamin/Downloads/fw-backup-2020_04_27-10_10_29-2/database.json.txt",
+		"/Users/nayeenalamin/Downloads/AdGuardHome/README.md",
+		"/Users/nayeenalamin/Downloads/language-24px.svg",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/fz3temp-2/id_rsa.pub",
+		"/Users/nayeenalamin/Downloads/Program for hybrid control/Program for hybrid control/_16_Nov_main_program/function.ino",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b93b9f34-7094-4344-8529-20fd240ea77e/public_html/wp-config.php",
+		"/Users/nayeenalamin/Library/Application Support/CrossOver/Bottles/WIN10/drive_c/Program Files (x86)/Microsoft Studios/Age of Empires III - Complete Collection/register.bat",
+		"/Users/nayeenalamin/Downloads/qvegie/qvegie/qvegie_admin/includes/configure.php",
+		"/Users/nayeenalamin/Downloads/qvegie/qvegie/includes/configure.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/fz3temp-2/plugin_interface.lib.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b2302e4e-62fc-4fd8-a739-6967102a8f6e/etc/php/7.3/apache2/php.ini",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b2302e4e-62fc-4fd8-a739-6967102a8f6e/usr/share/phpmyadmin/libraries/plugin_interface.lib.php",
+		"/Users/nayeenalamin/Downloads/DirectoryLister-3/app/config/app.php",
+		"/Users/nayeenalamin/Downloads/admin-lte-master/pages/examples/blank.html",
+		"/Users/nayeenalamin/Downloads/AdminLTE-3.0.2/index.html",
+		"/Users/nayeenalamin/Downloads/admin-lte-master/index.html",
+		"/Users/nayeenalamin/Desktop/blog/public/.htaccess.bak",
+		"/Users/nayeenalamin/Desktop/blog/public/.htaccess",
+		"/Users/nayeenalamin/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b2302e4e-62fc-4fd8-a739-6967102a8f6e/var/www/laravel/blog/resources/views/welcome.blade.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b2302e4e-62fc-4fd8-a739-6967102a8f6e/var/www/laravel/blog/bootstrap/app.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/b2302e4e-62fc-4fd8-a739-6967102a8f6e/var/www/laravel/blog/public/index.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/fz3temp-2/test.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/fz3temp-2/test 2.php",
+		"/Volumes/boot/ssh.sh",
+		"/Users/nayeenalamin/Downloads/aftiss_b3/aftiss.sh",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/d9683782-8a47-40e3-9b56-5dbe669cb9a3/var/www/html/drive/application/config/config.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/d9683782-8a47-40e3-9b56-5dbe669cb9a3/var/www/html/drive/application/config/database.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/d9683782-8a47-40e3-9b56-5dbe669cb9a3/var/www/html/test/index.html",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/d9683782-8a47-40e3-9b56-5dbe669cb9a3/var/www/html/index.php",
+		"/Users/nayeenalamin/Downloads/Mohamodia_RMG.xml",
+		"/Users/nayeenalamin/Desktop/index.html",
+		"/Users/nayeenalamin/Downloads/Thesis_en/01_introduction.tex",
+		"/Users/nayeenalamin/Downloads/LaTeX_template/sample/01_introduction.tex",
+		"/Users/nayeenalamin/Downloads/api/data.php",
+		"/Users/nayeenalamin/Downloads/api/display.php",
+		"/Users/nayeenalamin/Downloads/api/connection.php",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/2084d861-5d48-4b46-aaf3-c33f8f990e84/var/www/html/index.html",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/293ec177-0079-4ce2-9235-8e51475929d1/opt/jetty/webapps/root/WEB-INF/web.xml",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/01d549fc-82e4-4daa-9308-a091d412e8af/opt/jetty/webapps/README.TXT",
+		"/private/var/folders/b9/61p3mtq11mq25trr865fdpvh0000gn/T/ch.sudo.cyberduck/01d549fc-82e4-4daa-9308-a091d412e8af/opt/jetty/etc/jetty-started.xml",
+		"/Users/nayeenalamin/Downloads/mullvad-us1-2.conf",
+		"/Users/nayeenalamin/Downloads/index.php",
+		"/Users/nayeenalamin/Downloads/DS18B20_temp.ino",
+		"/Volumes/boot/cmdline.txt",
+		"/Users/nayeenalamin/Downloads/wp-config.php",
+		"/Users/nayeenalamin/MEGA/My Masters Course/writing/Nayeen_Thesis/02_UECS_and_LPWAN.tex",
+		"/Users/nayeenalamin/MEGA/My Masters Course/writing/Nayeen_Thesis/01_introduction.tex",
+		"/Users/nayeenalamin/MEGA/My Masters Course/writing/Nayeen_Thesis/main.tex",
+		"/Users/nayeenalamin/MEGA/My Masters Course/writing/Nayeen_Thesis/93_summary.tex"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "whitelist.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 138.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

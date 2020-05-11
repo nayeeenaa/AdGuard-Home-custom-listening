@@ -266,6 +266,7 @@
 @@||browser.pipe.aria.microsoft.com^$important
 @@||login.live.com^$important
 @@||config.edge.skype.com^$important
+@@||microsoft-us.evyy.net^$important
 # Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
@@ -367,6 +368,47 @@
 #Yahoo
 @@||www.yahoo.co.jp^$important
 @@||search.yahoo.com^$important
+@@||yeas.yahoo.co.jp^$important
+@@||yjtag.yahoo.co.jp^$important
+@@||logql.yahoo.co.jp^$important
+@@||s.yimg.jp^$important
+@@||yads.c.yimg.jp^$important
+@@||quriosity.yahoo.co.jp^$important
+@@||ybx-test.yahoo.co.jp^$important
+@@||s.yjtag.jp^$important
 #Alexa
 @@||xml.alexa.com^$important
 @@||alexa.com^$important
+# Alibaba Cloud
+@@||g.alicdn.com^$important
+@@||at.alicdn.com^$important
+@@||promotion.aliyun.com^$important
+@@||arms-retcode-sg.aliyuncs.com^$important
+@@||img.alicdn.com.danuoyi.alicdn.com^$important
+@@||at.alicdn.com.danuoyi.alicdn.com^$important
+@@||g.alicdn.com.danuoyi.alicdn.com^$important
+@@||img.alicdn.com^$important
+# LOCAL ISP and SIP
+@@||amberit.com^$important
+@@||siptalk.amberit.com^$important
+@@||securepay.sslcommerz.com^$important
+# WEB
+@@||whois.domaintools.com^$important
+@@||www.domaintools.com^$important
+@@||moviesherlock.com^$important
+@@||referrer.disqus.com^$important
+@@||slow-125.keep2share.cc^$important
+@@||domain.com^$important
+@@||images.engage.redhat.com^$important
+@@||app.engage.redhat.com^$important
+@@||k2s.cc^$important
+@@||slow-122.keep2share.cc^$important
+@@||slow-123.keep2share.cc^$important
+#linkedin
+@@||px.ads.linkedin.com^$important
+@@||retcode.taobao.com^$important
+#WEB SAP
+@@||answers.sap.com^$important
+
+
+
