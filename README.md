@@ -11,5 +11,8 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 facebook-whitelist.txt:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/facebook-whitelist.txt
 
+Youtube-Ads-Block list:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Youtube-ads-block.txt
+
 
 See infos regarding List: https://nayeen.info
