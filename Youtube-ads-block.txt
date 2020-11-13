@@ -1,9 +1,9 @@
 # ===========================================
-# Autor: Nayeen A.A
+# Autor: Walter Wiedenhofer
 # Date: 15. Oktober 2020 10:41 (UTC)
 # Number of unique domains: 82.108
-# Project home page: https://www.adg.nayeen.info
-# Title: nayeen.info - ADGH - Black-List
+# Project home page: https://www.sunshine.it
+# Title: sunshine.it - pi-hole - Black-List
 000.0x1f4b0.com
 0000mps.webpreview.dsl.net
 0001.2waky.com
@@ -18766,6 +18766,7 @@ google.drive.out.pesanfiforlif.com
 google.maniyakat.cn
 google.ryantoddrose.com
 google20.net
+i.ytimg.com
 googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
