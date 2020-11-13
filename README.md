@@ -17,5 +17,19 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 Adblick2.0-Ads-Block list
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/adblock20-EasyList.txt
 
+nayeen al amin mobile adserver-Block list
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-adservers.txt
+
+nayeen.info mobile antiade Block list
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-antiadblock.txt
+
+nayeen.info mobile specific app Block list
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_app.txt
+
+Nayeen Mobile specific web -Block list
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_web.txt
+
+adgh Mobile Whitelist
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-whitelist.txt
 
 See infos regarding List: https://nayeen.info
