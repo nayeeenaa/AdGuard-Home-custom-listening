@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 
 Youtube-Ads-Block list:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Youtube-ads-block.txt
+Adblick2.0-Ads-Block list
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/adblock20-EasyList.txt
 
 
 See infos regarding List: https://nayeen.info
