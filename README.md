@@ -37,4 +37,9 @@ Online Malicious Malware distribution URL
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Online-Malicious-Malware-distribution.txt
 
 
+
+SNS-Media-BlockList
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/SNS-Media-BlockList.txt
+
+
 See infos regarding List: https://nayeen.info
