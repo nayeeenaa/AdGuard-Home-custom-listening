@@ -32,4 +32,9 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 adgh Mobile Whitelist
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-whitelist.txt
 
+
+Online Malicious Malware distribution URL
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Online-Malicious-Malware-distribution.txt
+
+
 See infos regarding List: https://nayeen.info
