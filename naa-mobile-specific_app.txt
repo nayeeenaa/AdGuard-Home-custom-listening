@@ -731,7 +731,3 @@
 ||log.kajicam.com^
 ! Google Maps Promoted Pins
 ||mobilemaps-pa.googleapis.com/google.internal.mothership.maps.mobilemaps.ads.v1.MobileMapsAdsService/ListPromotedPinAds^
-
-
-
-
