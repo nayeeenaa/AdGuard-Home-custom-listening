@@ -1,6 +1,6 @@
-# AdGuard-Home-Whitelist
+# ADS BLOCK HOME [http://adsblock.nayeen.info]
 
-There are always pros and cons to use whitelists. I started with Pihole, but now I have AdGuard Home. Overblocking is not a permanent solution either. That's why I started to create a whitelist for AdGuard Home. 
+Say Safe form Mailware, Phishing and unwanted Ads
 
 If you have remaks or wishes please feel free to contact me.
 
@@ -87,4 +87,4 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 
 
 
-## See infos regarding List: https://adsblock.nayeen.info
+## See more info regarding Lists: https://adsblock.nayeen.info
