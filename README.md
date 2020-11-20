@@ -68,6 +68,9 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 ### Other Block List-002:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-002.txt
 
+### Other Block List-100:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-100.txt
+
 ### Other Block List-101:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-101.txt
 
