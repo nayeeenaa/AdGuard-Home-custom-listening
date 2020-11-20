@@ -35,63 +35,56 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 
 ## Ads and Cokies 
 
-Youtube-Ads-Block list:
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Youtube-ads-block.txt
+Ads-Block list-001:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-001.txt
 
-Adblick2.0-Ads-Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/adblock20-EasyList.txt
+Ads-Block list-002:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-002.txt
 
-nayeen al amin mobile adserver-Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-adservers.txt
+Ads-Block list-003:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-003.txt
 
-nayeen.info mobile antiade Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-antiadblock.txt
+Ads-Block list-004:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-004.txt
 
-nayeen.info mobile specific app Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_app.txt
+Ads-Block list-005:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-005.txt
 
-Nayeen Mobile specific web -Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_web.txt
+Ads-Block list-006:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-006.txt
+
+Ads-Block list-007:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-007.txt
+
+Ads-Block list-008:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-008.txt
+
+
+## Others Block List
+
+Other Block List-001:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-001.txt
+
+Other Block List-002:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-002.txt
+
+Other Block List-101:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-101.txt
+
+Other Block List-102:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-SM-102.txt
+
 
 
 
 # Whitelist:
-## Whitelist-01
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist.txt
-## Whitelist-02
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/facebook-whitelist.txt
+### Whitelist-001
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Whitelist-custom-001.txt
 
-## Whitelist-03
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-whitelist.txt
-
-Youtube-Ads-Block list:
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Youtube-ads-block.txt
-
-Adblick2.0-Ads-Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/adblock20-EasyList.txt
-
-nayeen al amin mobile adserver-Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-adservers.txt
-
-nayeen.info mobile antiade Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-antiadblock.txt
-
-nayeen.info mobile specific app Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_app.txt
-
-Nayeen Mobile specific web -Block list
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/naa-mobile-specific_web.txt
+### Whitelist-02
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist-fb-002.txt
 
 
 
 
-Online Malicious Malware distribution URL
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Online-Malicious-Malware-distribution.txt
-
-
-
-SNS-Media-BlockList
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/SNS-Media-BlockList.txt
-
-
-See infos regarding List: https://nayeen.info
+## See infos regarding List: https://adsblock.nayeen.info
