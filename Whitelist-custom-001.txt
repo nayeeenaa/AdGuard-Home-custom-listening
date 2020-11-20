@@ -31,3 +31,5 @@
 @@||amberit.com^$important
 @@||siptalk.amberit.com^$important
 @@||securepay.sslcommerz.com^$important
+
+! Windows
