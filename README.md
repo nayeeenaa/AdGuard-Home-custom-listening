@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 
 
 
-# Whitelist.txt:
+# Whitelist:
 ## Whitelist-01
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist.txt
 ## Whitelist-02
