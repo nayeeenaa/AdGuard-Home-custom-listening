@@ -16,15 +16,15 @@ Plist002:	https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-ag.txt
 
 
 Adslist-001:	https://easylist.to/easylist/easylist.txt
-Adslist-001:	https://www.smartadblock.co.uk/filters/sabfilter.txt
-Adslist-001:	https://filters.adtidy.org/mac/filters/12.txt
-Adslist-001:	https://filters.adtidy.org/ios/filters/11.txt
-Adslist-001:	https://filters.adtidy.org/android/filters/11.txt
-Adslist-001:	https://filters.adtidy.org/extension/chromium/filters/10.txt
-Adslist-001:	https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+Adslist-002:	https://badmojr.github.io/1Hosts/Pro/hosts.txt
+Adslist-003:	https://www.smartadblock.co.uk/filters/sabfilter.txt
+Adslist-004:	https://filters.adtidy.org/mac/filters/12.txt
+Adslist-005:	https://filters.adtidy.org/ios/filters/11.txt
+Adslist-006:	https://filters.adtidy.org/android/filters/11.txt
+Adslist-007:	https://filters.adtidy.org/extension/chromium/filters/10.txt
+Adslist-008:	https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 
 # Others
 
-Otherslist-001:		https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
-Otherslist-001:		https://filters.adtidy.org/extension/chromium/filters/4.txt
-Otherslist-001:		https://raw.githubusercontent.com/pengelana/blocklist/master/domain.txt
+Otherslist-001:		https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+Otherslist-002:		https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt

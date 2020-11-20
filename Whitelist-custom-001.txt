@@ -1,0 +1,33 @@
+# 
+!
+! Title: Nayeen Home Adguard Home Domain Names whitelist filter
+! Description: whitelist filter composed from several essential domain
+! Homepage: https://github.com/nayeeenaa/AdGuard-Home-custom-listening
+! Last modified: 2020-04-29T14:08:02.470Z
+!
+!
+!
+! Source name: Nayeen Home Adguard Home Domain Names whitelist filter
+! Source: https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist.txt
+!
+!
+!
+
+#AdGuard
+@@||matomo.adguard.com^$important
+# Instagram
+@@||cdninstagram.com^$important
+@@||graph.instagram.com^$important
+#Facebook
+@@||graph.facebook.com
+
+#linkedin
+@@||px.ads.linkedin.com^$important
+@@||retcode.taobao.com^$important
+#WEB SAP
+@@||answers.sap.com^$important
+
+# LOCAL ISP and SIP
+@@||amberit.com^$important
+@@||siptalk.amberit.com^$important
+@@||securepay.sslcommerz.com^$important
