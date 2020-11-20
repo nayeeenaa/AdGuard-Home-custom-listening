@@ -1,6 +1,6 @@
 # ADS BLOCK HOME [http://adsblock.nayeen.info]
 
-Say Safe form Mailware, Phishing and unwanted Ads
+Stay Safe form Mailware, Phishing and unwanted Ads
 
 If you have remaks or wishes please feel free to contact me.
 
