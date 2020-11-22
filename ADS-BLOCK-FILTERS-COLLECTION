@@ -1,5 +1,5 @@
 ADS-BLOCK-FILTERS-COLLECTION
-
+#############################
 Online Malicious Malware distribution (Vivaldi)
 Mlist-001:	https://curben.gitlab.io/malware-filter/urlhaus-filter-vivaldi-online.txt
 Mlist002:	https://curben.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt
@@ -8,12 +8,10 @@ Mlist004:	https://gitlab.com/DandelionSprout/adfilt/raw/master/Alternate%20versi
 Plist001:	https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-vivaldi.txt
 Plist002:	https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-ag.txt
 
-
-
-
+########################################
 
 # Ads/Cookies
-
+########################################
 
 Adslist-001:	https://easylist.to/easylist/easylist.txt
 Adslist-002:	https://badmojr.github.io/1Hosts/Pro/hosts.txt
