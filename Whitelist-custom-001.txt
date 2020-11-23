@@ -32,4 +32,8 @@
 @@||siptalk.amberit.com^$important
 @@||securepay.sslcommerz.com^$important
 
-! Windows
+# Windows Coustom for WEB
+@@||jquey.com^$important
+@@||cdn.jsdelivr.net^$important
+@@||cookiebot-assets.envato-static.com^$important
+@@||godaddy.com^$importa
