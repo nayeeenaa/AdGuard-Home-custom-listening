@@ -12,10 +12,6 @@
 # GitHub issues: https://github.com/nayeeenaa/AdGuard-Home-custom-listening/issues
 # GitHub pull requests: https://github.com/nayeeenaa/AdGuard-Home-custom-listening/pulls
 # 
-!
-!---------------------------------------------------------------------------!
-!-------------- General JS API ---------------------------------------------!
-!---------------------------------------------------------------------------!
 ! JS API START
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -1268,6 +1264,8 @@ westseattleblog.com#@#.header-ad
 !
 ! Extended CSS rules
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/67990
+metruyenchu.com#?#main > section.nh-section:has(> div.text-center [class="text-muted"])
 ! amazon.de mobile ad text in cart
 amazon.de#?##content > .a-spacing-top-large > .a-section:has(> .a-section > div[cel_widget_id="mobile-cart-carousels_SponsoredProductsPaginatedMobileCartEXPSubstitutesStrategy"])
 ! winfuture.mobi - left-over in article
@@ -1672,6 +1670,8 @@ sasisa.ru#%#AG_onLoad(function() { window.Umobi = function() {}; });
 !-------CSS---------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/68045
+wtftime.ru#$#.adaptive_ads { position: absolute!important; left: -3000px!important; }
 ! pcgames.de - left-over at top
 pcgames.de#$#.stickyHeader+#loginFormMobileWrapper+.navigation+main { margin-top: 5,5rem !important; }
 ! ixbt.com - исправление отступа в мобильной версии
@@ -1879,6 +1879,8 @@ nasimke.ru$$script[tag-content="function show_ads"][max-length="6000"]
 ! ##### TEMPORARY END #####
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/68075
+@@||d-cache.microad.jp/js/td_iw_access.js$domain=watch.impress.co.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/67968
 @@||static00.forvo.com/_presentation/assets/js/vendor_mobile_no_ads.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/67705
@@ -2250,6 +2252,9 @@ amp.n-tv.de,dni.ru,independent.co.uk,komputerswiat.pl,dobreprogramy.pl,amp.pcwel
 ! ##.inline-ad-container
 avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,splinternews.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.inline-ad-container
 !
+m.hurriyet.com.tr##a[href^="http://www.mobilbilgiservisleri.com/lp"] > img
+withinnigeria.com##div[data-adid]
+metruyenchu.com##main > section.nh-section > div.text-center.bg-light
 linkvertise.com##.yahoo-wrapper
 m.liveresult.ru##body > div[style^="height:"][style*="108px"]
 politnavigator.net##amp-iframe[id^="adskeeper_iframe"]
@@ -3075,7 +3080,7 @@ obozrevatel.com##amp-iframe.branding
 m.sabah.com.tr##.promo
 gametech.ru##.mobadv
 /:\/\/[A-Za-z0-9]+.ru\/[A-Za-z0-9]{20,25}.js/$domain=music-radio.ru
-dialog.ua##amp-iframe[src^="https://m.mixadvert.com/"]
+dp.ua,dialog.ua##amp-iframe[src^="https://m.mixadvert.com/"]
 101android.ru##.spu-box
 101android.ru##.spu-bg
 101android.ru##.myblockbottom
