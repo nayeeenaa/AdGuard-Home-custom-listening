@@ -8086,8 +8086,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-cf.fabric.io
 
 # [facebook.com]
-0.0.0.0 an.facebook.com
-0.0.0.0 pixel.facebook.com
+#0.0.0.0 an.facebook.com
+#0.0.0.0 pixel.facebook.com
 
 # [factual.com]
 0.0.0.0 api.factual.com
