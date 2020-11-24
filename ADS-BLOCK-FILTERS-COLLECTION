@@ -21,8 +21,24 @@ Adslist-005:	https://filters.adtidy.org/ios/filters/11.txt
 Adslist-006:	https://filters.adtidy.org/android/filters/11.txt
 Adslist-007:	https://filters.adtidy.org/extension/chromium/filters/10.txt
 Adslist-008:	https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
-
+Adslist-009:	https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 # Others
 
 Otherslist-001:		https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 Otherslist-002:		https://filters.adtidy.org/extension/ublock/filters/4_optimized.txt
+
+
+#Mobile
+===============================================
+
+root:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+
+MobAdslist-001:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+MobAdslist-002:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/antiadblock.txt
+MobAdslist-003:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/css_extended.txt
+MobAdslist-004:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_elemhide.txt
+MobAdslist-005:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_extensions.txt
+MobAdslist-006:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_url.txt
+MobAdslist-007:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/replace.txt
+MobAdslist-008:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
+MobAdslist-009:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_web.txt

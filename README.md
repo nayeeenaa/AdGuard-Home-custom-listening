@@ -59,6 +59,40 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 ### Ads-Block list-008:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-008.txt
 
+### Ads-Block list-008:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-009.txt
+
+
+
+## Mobile Ads Block List
+
+### Mobile Block List-001:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-001.txt
+
+### Mobile Block List-002:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-002.txt
+
+### Mobile Block List-003:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-003.txt
+
+### Mobile Block List-004:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-004.txt
+
+### Mobile Block List-005:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-005.txt
+
+### Mobile Block List-006:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-006.txt
+
+### Mobile Block List-007:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-007.txt
+
+### Mobile Block List-008:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-008.txt
+
+### Mobile Block List-009:
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/MobAdslist-009.txt
+
 
 ## Others Block List
 
@@ -71,9 +105,6 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 ### Other Block List-003:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-003.txt
 
-### Other Block List-100:
-https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-100.txt
-
 ### Other Block List-101:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/OtherBlist-101.txt
 
@@ -84,10 +115,14 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 
 
 # Whitelist:
+
 ### Whitelist-001
+https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Whitelist-001.txt
+
+### Whitelist-Custom-001
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Whitelist-custom-001.txt
 
-### Whitelist-02
+### Whitelist-fb-002
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/whitelist-fb-002.txt
 
 
