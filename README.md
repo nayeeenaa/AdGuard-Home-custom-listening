@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master
 ### Ads-Block list-008:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-008.txt
 
-### Ads-Block list-008:
+### Ads-Block list-009:
 https://raw.githubusercontent.com/nayeeenaa/AdGuard-Home-custom-listening/master/Adslist-009.txt
 
 
