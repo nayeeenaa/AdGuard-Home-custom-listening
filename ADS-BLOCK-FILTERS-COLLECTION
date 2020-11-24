@@ -42,3 +42,17 @@ MobAdslist-006:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/m
 MobAdslist-007:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/replace.txt
 MobAdslist-008:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
 MobAdslist-009:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_web.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whitelist-002:			https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/whitelist.txt
