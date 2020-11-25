@@ -37,3 +37,6 @@
 @@||cdn.jsdelivr.net^$important
 @@||cookiebot-assets.envato-static.com^$important
 @@||godaddy.com^$importa
+
+#Messageing
+@@||privatestats.whatsapp.net^$important
